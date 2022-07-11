@@ -1,2 +1,2 @@
-# atividades_python_guanabara
+# atividades de python
 atividades do curso de python do Curso em video.
